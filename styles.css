@@ -252,6 +252,8 @@ main {
   max-width: 170px;
   object-fit: contain;
   display: block;
+  background: var(--line);
+  border-radius: 4px;
 }
 
 .domain-card span {
