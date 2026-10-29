@@ -1,4 +1,9 @@
 (function () {
+  const yearEl = document.getElementById("year");
+  if (yearEl) {
+    yearEl.textContent = String(new Date().getFullYear());
+  }
+
   const toggle = document.querySelector(".nav-toggle");
   const links = document.querySelector(".nav-links");
   const sections = document.querySelectorAll("main section[id]");

@@ -155,7 +155,6 @@ main {
   font-size: clamp(2.3rem, 4vw, 3.3rem);
   line-height: 1.02;
   letter-spacing: -0.02em;
-  max-width: 16ch;
 }
 
 .section-heading h2 {
@@ -271,26 +270,30 @@ main {
 }
 
 .domain-card:nth-child(1) {
-  margin-top: 2rem;
-}
-
-.domain-card:nth-child(2) {
   margin-top: 0;
 }
 
+.domain-card:nth-child(2) {
+  margin-top: 2rem;
+}
+
 .domain-card:nth-child(3) {
-  margin-top: 2.1rem;
+  margin-top: 0;
 }
 
 .domain-card:nth-child(4) {
-  margin-top: 0.2rem;
+  margin-top: 2.1rem;
 }
 
 .domain-card:nth-child(5) {
-  margin-top: 1.7rem;
+  margin-top: 0.2rem;
 }
 
 .domain-card:nth-child(6) {
+  margin-top: 1.7rem;
+}
+
+.domain-card:nth-child(7) {
   margin-top: -0.2rem;
 }
 
@@ -665,6 +668,12 @@ main {
   fill: currentColor;
 }
 
+.footer-copy {
+  margin: 0.8rem 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
 @media (max-width: 1024px) {
   .project,
   .publication-list,
@@ -764,7 +773,9 @@ main {
   .domain-card:nth-child(2),
   .domain-card:nth-child(3),
   .domain-card:nth-child(4),
-  .domain-card:nth-child(5) {
+  .domain-card:nth-child(5),
+  .domain-card:nth-child(6),
+  .domain-card:nth-child(7) {
     margin-top: 0;
   }
 
