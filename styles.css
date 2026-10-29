@@ -305,9 +305,9 @@ main {
 
 .hero-visual img {
   border-radius: 0;
-  aspect-ratio: 1 / 1.2;
-  object-fit: cover;
   width: 100%;
+  height: auto;
+  display: block;
   border: 1px solid var(--line);
 }
 
@@ -737,10 +737,6 @@ main {
 
   .hero-visual {
     padding-top: 0;
-  }
-
-  .hero-visual img {
-    aspect-ratio: 1 / 1.15;
   }
 
   .timeline::before {
