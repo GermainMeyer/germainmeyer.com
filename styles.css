@@ -1,9 +1,9 @@
 :root {
-  --bg: #fbfbf8;
-  --text: #1f1f1c;
-  --muted: #6c6a63;
-  --line: #d8d4c8;
-  --accent: #b95a4b;
+  --bg: #f6f7f8;
+  --text: #1a1d21;
+  --muted: #5d6570;
+  --line: #dde1e6;
+  --accent: #2d6a4f;
   --nav-height: 58px;
 }
 
@@ -43,7 +43,7 @@ main {
   position: fixed;
   inset: 0 0 auto;
   z-index: 100;
-  background: rgba(251, 251, 248, 0.95);
+  background: rgba(246, 247, 248, 0.95);
   border-bottom: 1px solid var(--line);
 }
 
@@ -498,7 +498,7 @@ main {
   height: 48px;
   border: 0;
   border-radius: 14px;
-  background: rgba(185, 90, 75, 0.92);
+  background: rgba(45, 106, 79, 0.92);
   cursor: pointer;
 }
 
@@ -718,7 +718,7 @@ main {
     padding: 0.8rem 1rem;
     flex-direction: column;
     align-items: flex-start;
-    background: rgba(251, 251, 248, 0.98);
+    background: rgba(246, 247, 248, 0.98);
     border: 1px solid var(--line);
     border-radius: 0;
   }
