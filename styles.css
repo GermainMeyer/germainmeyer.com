@@ -760,10 +760,16 @@ main {
   }
 
   .domain-gallery {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 1rem 0.7rem;
-    justify-items: center;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 1rem;
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+    scrollbar-width: none;
+  }
+
+  .domain-gallery::-webkit-scrollbar {
+    display: none;
   }
 
   .domain-card,
@@ -775,18 +781,18 @@ main {
   .domain-card:nth-child(6),
   .domain-card:nth-child(7) {
     margin-top: 0;
+    flex: 0 0 auto;
   }
 
   .domain-card img {
-    height: 120px;
-    max-width: 160px;
+    height: 110px;
+    max-width: 140px;
   }
 
   .domain-card {
     width: max-content;
-    max-width: 120px;
+    max-width: 110px;
     padding-bottom: 0;
-    justify-self: center;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -800,6 +806,7 @@ main {
     white-space: normal;
     overflow-wrap: normal;
     word-break: normal;
+    text-align: center;
   }
 
   .project-content {
