@@ -701,7 +701,7 @@ main {
   }
 
   .nav {
-    padding: 0;
+    padding: 0 1rem;
     position: relative;
   }
 
@@ -761,8 +761,8 @@ main {
 
   .domain-gallery {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 1rem 0.9rem;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem 0.7rem;
     justify-items: center;
   }
 
