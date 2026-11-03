@@ -1,0 +1,356 @@
+{
+  "Agriculture-robotics.jpg": {
+    "base": "agriculture-robotics",
+    "w": 276,
+    "h": 276,
+    "kind": "photo"
+  },
+  "Marine-exploration.png": {
+    "base": "marine-exploration",
+    "w": 315,
+    "h": 339,
+    "kind": "graphic"
+  },
+  "Materials-and-fabrication.png": {
+    "base": "materials-and-fabrication",
+    "w": 315,
+    "h": 462,
+    "kind": "graphic"
+  },
+  "Robotics and AI for Food.png": {
+    "base": "robotics-and-ai-for-food",
+    "w": 197,
+    "h": 276,
+    "kind": "graphic"
+  },
+  "main.jpeg": {
+    "base": "main",
+    "w": 440,
+    "h": 550,
+    "kind": "photo"
+  },
+  "mountain.jpeg": {
+    "base": "mountain",
+    "w": 1061,
+    "h": 1416,
+    "kind": "photo"
+  },
+  "rail-robot.jpg": {
+    "base": "rail-robot",
+    "w": 207,
+    "h": 276,
+    "kind": "photo"
+  },
+  "robotic-surgery.jpg": {
+    "base": "robotic-surgery",
+    "w": 211,
+    "h": 281,
+    "kind": "photo"
+  },
+  "sensing.jpg": {
+    "base": "sensing",
+    "w": 102,
+    "h": 174,
+    "kind": "photo"
+  },
+  "aquatic-robot/create-lab.png": {
+    "base": "create-lab",
+    "w": 1200,
+    "h": 591,
+    "kind": "graphic"
+  },
+  "aquatic-robot/experimental-setup.png": {
+    "base": "experimental-setup",
+    "w": 1200,
+    "h": 642,
+    "kind": "graphic"
+  },
+  "aquatic-robot/markov-analysis.png": {
+    "base": "markov-analysis",
+    "w": 1200,
+    "h": 712,
+    "kind": "graphic"
+  },
+  "aquatic-robot/state-transitions.png": {
+    "base": "state-transitions",
+    "w": 1200,
+    "h": 727,
+    "kind": "graphic"
+  },
+  "food-sensor/arm-sensor-rig.jpg": {
+    "base": "arm-sensor-rig",
+    "w": 1600,
+    "h": 900,
+    "kind": "photo"
+  },
+  "food-sensor/arm-sensor-toast.jpg": {
+    "base": "arm-sensor-toast",
+    "w": 272,
+    "h": 218,
+    "kind": "photo"
+  },
+  "food-sensor/modalities-probe.jpg": {
+    "base": "modalities-probe",
+    "w": 900,
+    "h": 1600,
+    "kind": "photo"
+  },
+  "food-sensor/modalities-probe.png": {
+    "base": "modalities-probe",
+    "w": 938,
+    "h": 742,
+    "kind": "photo"
+  },
+  "food-sensor/modalities-toast.jpg": {
+    "base": "modalities-toast",
+    "w": 1600,
+    "h": 1393,
+    "kind": "photo"
+  },
+  "food-sensor/results.png": {
+    "base": "results",
+    "w": 991,
+    "h": 967,
+    "kind": "graphic"
+  },
+  "food-sensor/sensor-back.jpg": {
+    "base": "sensor-back",
+    "w": 900,
+    "h": 1600,
+    "kind": "photo"
+  },
+  "food-sensor/sensor-food.png": {
+    "base": "sensor-food",
+    "w": 938,
+    "h": 750,
+    "kind": "graphic"
+  },
+  "food-sensor/sensor-front.jpg": {
+    "base": "sensor-front",
+    "w": 1600,
+    "h": 900,
+    "kind": "photo"
+  },
+  "teleoperation/design-exploration.jpg": {
+    "base": "design-exploration",
+    "w": 1294,
+    "h": 820,
+    "kind": "photo"
+  },
+  "teleoperation/device-assembly.jpeg": {
+    "base": "device-assembly",
+    "w": 1200,
+    "h": 1600,
+    "kind": "photo"
+  },
+  "teleoperation/final-device.png": {
+    "base": "final-device",
+    "w": 1294,
+    "h": 818,
+    "kind": "photo"
+  },
+  "teleoperation/mechanical-sizing.png": {
+    "base": "mechanical-sizing",
+    "w": 1200,
+    "h": 778,
+    "kind": "graphic"
+  },
+  "teleoperation/rehassist-logo.png": {
+    "base": "rehassist-logo",
+    "w": 400,
+    "h": 74,
+    "kind": "logo"
+  },
+  "metal-fdm/lamcube-logo.png": {
+    "base": "lamcube-logo",
+    "w": 400,
+    "h": 168,
+    "kind": "logo"
+  },
+  "metal-fdm/layer-lines.jpeg": {
+    "base": "layer-lines",
+    "w": 736,
+    "h": 591,
+    "kind": "photo"
+  },
+  "metal-fdm/printer.png": {
+    "base": "printer",
+    "w": 1294,
+    "h": 752,
+    "kind": "photo"
+  },
+  "metal-fdm/results.png": {
+    "base": "results",
+    "w": 1200,
+    "h": 894,
+    "kind": "graphic"
+  },
+  "metal-fdm/samples.jpeg": {
+    "base": "samples",
+    "w": 920,
+    "h": 690,
+    "kind": "photo"
+  },
+  "metal-fdm/sintering.jpeg": {
+    "base": "sintering",
+    "w": 903,
+    "h": 677,
+    "kind": "photo"
+  },
+  "metal-fdm/tensile-test.png": {
+    "base": "tensile-test",
+    "w": 1294,
+    "h": 758,
+    "kind": "photo"
+  },
+  "whale-tag/ceti-logo.png": {
+    "base": "ceti-logo",
+    "w": 400,
+    "h": 122,
+    "kind": "logo"
+  },
+  "whale-tag/harvard-logo.png": {
+    "base": "harvard-logo",
+    "w": 400,
+    "h": 248,
+    "kind": "logo"
+  },
+  "whale-tag/logger.png": {
+    "base": "logger",
+    "w": 939,
+    "h": 618,
+    "kind": "photo"
+  },
+  "whale-tag/model-schematic.png": {
+    "base": "model-schematic",
+    "w": 944,
+    "h": 655,
+    "kind": "graphic"
+  },
+  "whale-tag/prototype.jpeg": {
+    "base": "prototype",
+    "w": 1086,
+    "h": 724,
+    "kind": "photo"
+  },
+  "whale-tag/results.png": {
+    "base": "results",
+    "w": 967,
+    "h": 792,
+    "kind": "photo"
+  },
+  "whale-tag/whale-tag.JPG": {
+    "base": "whale-tag",
+    "w": 1600,
+    "h": 1066,
+    "kind": "photo"
+  },
+  "vertical-farming/create-lab.png": {
+    "base": "create-lab",
+    "w": 1200,
+    "h": 591,
+    "kind": "graphic"
+  },
+  "vertical-farming/cut_plants.png": {
+    "base": "cut-plants",
+    "w": 1600,
+    "h": 1211,
+    "kind": "photo"
+  },
+  "vertical-farming/greenhouse.jpeg": {
+    "base": "greenhouse",
+    "w": 1600,
+    "h": 1600,
+    "kind": "photo"
+  },
+  "vertical-farming/image10.png": {
+    "base": "image10",
+    "w": 240,
+    "h": 202,
+    "kind": "graphic"
+  },
+  "vertical-farming/image11.png": {
+    "base": "image11",
+    "w": 228,
+    "h": 217,
+    "kind": "graphic"
+  },
+  "vertical-farming/image12.png": {
+    "base": "image12",
+    "w": 240,
+    "h": 182,
+    "kind": "graphic"
+  },
+  "vertical-farming/image13.png": {
+    "base": "image13",
+    "w": 248,
+    "h": 175,
+    "kind": "graphic"
+  },
+  "vertical-farming/image9.png": {
+    "base": "image9",
+    "w": 244,
+    "h": 296,
+    "kind": "graphic"
+  },
+  "vertical-farming/robot_upclose.png": {
+    "base": "robot-upclose",
+    "w": 1600,
+    "h": 1222,
+    "kind": "photo"
+  },
+  "vertical-farming/teleoperation.png": {
+    "base": "teleoperation",
+    "w": 1600,
+    "h": 1523,
+    "kind": "photo"
+  },
+  "vertical-farming/vertical-farming.JPG": {
+    "base": "vertical-farming",
+    "w": 1600,
+    "h": 1201,
+    "kind": "photo"
+  },
+  "vertical-farming/whole_system.png": {
+    "base": "whole-system",
+    "w": 1307,
+    "h": 1600,
+    "kind": "photo"
+  },
+  "other-projects/biomimetics.png": {
+    "base": "biomimetics",
+    "w": 565,
+    "h": 283,
+    "kind": "graphic"
+  },
+  "other-projects/concussion.png": {
+    "base": "concussion",
+    "w": 565,
+    "h": 284,
+    "kind": "graphic"
+  },
+  "other-projects/cycling-shoe.png": {
+    "base": "cycling-shoe",
+    "w": 662,
+    "h": 326,
+    "kind": "graphic"
+  },
+  "other-projects/ski-wax.png": {
+    "base": "ski-wax",
+    "w": 1294,
+    "h": 650,
+    "kind": "photo"
+  },
+  "other-projects/spider-web.png": {
+    "base": "spider-web",
+    "w": 1294,
+    "h": 658,
+    "kind": "photo"
+  },
+  "other-projects/voltage.png": {
+    "base": "voltage",
+    "w": 1294,
+    "h": 650,
+    "kind": "photo"
+  }
+}
